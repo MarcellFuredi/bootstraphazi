@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(246, 246, 246);
+}
+
+.navbar {
+    flex-wrap: nowrap;
+    background-color: rgb(231, 231, 231);
+}
+
+.pskep {
+    width: 100%;
+}
+
+.pskep-container {
+    display: flex;
+    justify-content: center;
+}
+
+.large {
+    font-size: x-large;
+}
+
+.container {
+    margin-top: 10px;
+}
+
+.pskep2 {
+    height: 30%;
+}
